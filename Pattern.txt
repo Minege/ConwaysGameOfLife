@@ -1,0 +1,37 @@
+  game.grid[5][3] = Cell::Alive; // The glider
+  game.grid[6][3] = Cell::Alive;
+  game.grid[7][3] = Cell::Alive;
+  game.grid[7][2] = Cell::Alive;
+  game.grid[6][1] = Cell::Alive;
+	
+	game.grid[10][8] = Cell::Alive;
+	game.grid[11][8] = Cell::Alive;
+	game.grid[12][8] = Cell::Alive;
+	game.grid[13][8] = Cell::Alive;
+	game.grid[14][8] = Cell::Alive;
+	game.grid[16][8] = Cell::Alive;
+	game.grid[17][8] = Cell::Alive;
+	
+	game.grid[19][8] = Cell::Alive;
+	game.grid[20][8] = Cell::Alive;
+	game.grid[21][8] = Cell::Alive;
+	game.grid[22][8] = Cell::Alive;
+	game.grid[23][8] = Cell::Alive;
+	
+	game.grid[27][8] = Cell::Alive;
+	game.grid[28][8] = Cell::Alive;
+	game.grid[29][8] = Cell::Alive;
+	
+	game.grid[36][8] = Cell::Alive;
+	game.grid[37][8] = Cell::Alive;
+	game.grid[38][8] = Cell::Alive;
+	game.grid[39][8] = Cell::Alive;
+	game.grid[40][8] = Cell::Alive;
+	game.grid[41][8] = Cell::Alive;
+	game.grid[42][8] = Cell::Alive;
+	
+	game.grid[44][8] = Cell::Alive;
+	game.grid[45][8] = Cell::Alive;
+	game.grid[46][8] = Cell::Alive;
+	game.grid[47][8] = Cell::Alive;
+	game.grid[48][8] = Cell::Alive;
